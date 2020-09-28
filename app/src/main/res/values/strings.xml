@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" templateMergeStrategy="preserve" translatable="false">Coding Task</string>
+
+    <!-- image item negative cases placeholder text -->
+    <string name="empty_list">No images found</string>
+    <string name="an_error_occurred">Something went wrong. please try again later!</string>
+
+    <!-- image item placeholder text -->
+    <string name="image_default_name_text">Username: %1$s</string>
+    <string name="image_default_name_rating">Rating: %1$s</string>
+    <string name="image_default_name_source">Source: %1$s</string>
+</resources>
